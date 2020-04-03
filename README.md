@@ -2,10 +2,11 @@
 
 ## Education and Learning
 1. [Pluralsight](https://www.pluralsight.com/)  
-    * FREE during the entire month of April. 
+    * What: Online IT/cyber learning platform 
+    * Offer: FREE during the entire month of April. 
 
 2. [Kanopy](https://www.kanopy.com/)  
-    * Digital streaming platform accessible with most public library cards. 
+    * What: Digital streaming platform accessible with most public library cards. 
 
 3. [Libby](https://www.overdrive.com/apps/libby/)  
     * Ebooks and audiobooks using a public library card. 
