@@ -2,13 +2,13 @@
 
 ## Education and Learning
 1. [Pluralsight](https://www.pluralsight.com/)  
-* Free during the entire month of April. 
+    * Free during the entire month of April. 
 
 2. [Kanopy](https://www.kanopy.com/)  
-* Digital streaming platform accessible with most public library cards. 
+    * Digital streaming platform accessible with most public library cards. 
 
 3. [Libby](https://www.overdrive.com/apps/libby/)  
-* Ebooks and audiobooks using a public library card. 
+    * Ebooks and audiobooks using a public library card. 
 
 4. [https://www.hoopladigital.com/](https://www.hoopladigital.com/)
 
@@ -17,7 +17,7 @@
 6. [Udemy](https://www.udemy.com)
 
 7. [Coursera](https://www.coursera.org/coronavirus)  
-* Access to over 3,800 courses from universities and corporations. 
+    * Access to over 3,800 courses from universities and corporations. 
 
 8. [ICS-CERT Virtual Learning Portal (DHS)](https://ics-cert-training.inl.gov/learn)
 
@@ -35,6 +35,3 @@
 1. [Microsoft Teams](https://education.microsoft.com/en-us/resource/ba162685)   
     *  Microsoft Teams platform available for free for higher education. 
 
-
-  
-  
