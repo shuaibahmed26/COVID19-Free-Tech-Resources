@@ -33,7 +33,8 @@
 
 ## Video Conferencing Platforms 
 1. [Microsoft Teams](https://education.microsoft.com/en-us/resource/ba162685)   
-* Microsoft Teams platform available for free for higher education. 
+    *  Microsoft Teams platform available for free for higher education. 
 
 
-
+  
+  
