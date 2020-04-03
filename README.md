@@ -29,7 +29,7 @@
 
 12. [O'Reilly Tech Books](https://www.oreilly.com/security/free/)
 
-13. [Cybersecurity Tech Talks](https://www.springboard.com/blog/12-must-watch-cybersecurity-ted-talks/)
+13. [Cybersecurity TED Talks](https://www.springboard.com/blog/12-must-watch-cybersecurity-ted-talks/)
 
 ## Video Conferencing Platforms 
 1. [Microsoft Teams](https://education.microsoft.com/en-us/resource/ba162685)   
