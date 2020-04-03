@@ -19,7 +19,7 @@
 7. [Coursera](https://www.coursera.org/coronavirus)  
     * Access to over 3,800 courses from universities and corporations. 
 
-8. [ICS-CERT Virtual Learning Portal (DHS)](https://ics-cert-training.inl.gov/learn)
+8. [ICS-CERT Virtual Learning Portal (U.S. DHS)](https://ics-cert-training.inl.gov/learn)
 
 9. [Open Security Training](http://opensecuritytraining.info/Training.html)
 
@@ -34,4 +34,5 @@
 ## Video Conferencing Platforms 
 1. [Microsoft Teams](https://education.microsoft.com/en-us/resource/ba162685)   
     *  Microsoft Teams platform available for free for higher education. 
+
 
