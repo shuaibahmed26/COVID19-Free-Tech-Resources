@@ -6,20 +6,21 @@
     * **Offer**: FREE during the entire month of April. 
 
 2. [Kanopy](https://www.kanopy.com/)  
-    * What: Digital streaming platform accessible with most public library cards. 
+    * **What**: Digital streaming platform accessible with most public library cards. 
 
 3. [Libby](https://www.overdrive.com/apps/libby/)  
-    * Ebooks and audiobooks using a public library card. 
+    * **What**: Free Ebooks and audiobooks using a public library card. 
 
 4. [https://www.hoopladigital.com/](https://www.hoopladigital.com/)
 
 5. [RBdigital](https://rbdigital.com/)
 
 6. [Udemy Free Courses](https://udemyfreecourses.org/category/all-it-and-software)
-    * List of free Udemy courses for IT and cybersecurity 
+    * **What**List of free Udemy courses for IT and cybersecurity 
 
 7. [Coursera](https://www.coursera.org/coronavirus)  
-    * Access to over 3,800 courses from universities and corporations. 
+    * **What**: Online course learning platform
+    * **Offer**: Access to over 3,800 courses from universities and corporations. 
 
 8. [ICS-CERT Virtual Learning Portal (U.S. DHS)](https://ics-cert-training.inl.gov/learn)
 
